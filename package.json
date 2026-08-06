@@ -1,0 +1,8 @@
+{
+  "name": "informe-casur-crm",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "true"
+  }
+}
